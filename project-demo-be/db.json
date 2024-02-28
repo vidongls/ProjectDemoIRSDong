@@ -1,0 +1,26 @@
+{
+	"customers": [
+		{ "id": 1, "code": "C001", "name": "Nguyễn Văn A" },
+		{ "id": 2, "code": "C002", "name": "Trần Thị B" },
+		{ "id": 3, "code": "C003", "name": "Lê Văn C" },
+		{ "id": 4, "code": "C004", "name": "Phạm Thị D" },
+		{ "id": 5, "code": "C005", "name": "Hoàng Văn E" },
+		{ "id": 6, "code": "C006", "name": "Nguyễn Thị F" },
+		{ "id": 7, "code": "C007", "name": "Trần Văn G" },
+		{ "id": 8, "code": "C008", "name": "Lê Thị H" },
+		{ "id": 9, "code": "C009", "name": "Phạm Văn I" },
+		{ "id": 10, "code": "C010", "name": "Hoàng Thị K" }
+	],
+	"suppliers": [
+		{ "id": 1, "code": "S001", "name": "Công ty Xanh" },
+		{ "id": 2, "code": "S002", "name": "Công ty Đỏ" },
+		{ "id": 3, "code": "S003", "name": "Công ty Vàng" },
+		{ "id": 4, "code": "S004", "name": "Công ty Trắng" },
+		{ "id": 5, "code": "S005", "name": "Công ty Đen" },
+		{ "id": 6, "code": "S006", "name": "Công ty Xám" },
+		{ "id": 7, "code": "S007", "name": "Công ty Hồng" },
+		{ "id": 8, "code": "S008", "name": "Công ty Lam" },
+		{ "id": 9, "code": "S009", "name": "Công ty Tím" },
+		{ "id": 10, "code": "S010", "name": "Công ty Cam" }
+	]
+}
